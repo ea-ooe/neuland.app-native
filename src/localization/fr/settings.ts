@@ -54,7 +54,7 @@ export default {
     profile: {
         formlist: {
             user: {
-                title: 'Utilisateur·rice',
+                title: 'Utilisateur/Utilisatrice',
                 matrical: 'Numéro d’immatriculation',
                 library: 'Numéro de bibliothèque',
                 printer: 'Crédit d’impression',

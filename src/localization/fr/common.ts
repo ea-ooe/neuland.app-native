@@ -63,7 +63,7 @@ export default {
             about: {
                 title: 'À propos',
                 type: 'Type',
-                examiner: 'Examinateur·rice',
+                examiner: 'Examinateur/Examinatrice',
                 registration: 'Inscrit·e',
                 notes: 'Notes',
             },

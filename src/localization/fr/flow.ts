@@ -52,7 +52,7 @@ export default {
                     'Des anciens identifiants ont été trouvés dans le porte-clés d’iOS',
             },
         },
-        username: 'Nom d’utilisateur·rice',
+        username: 'Nom d’utilisateur/d’utilisatrice',
         password: 'Mot de passe',
         button: 'Connexion',
         guest: 'Continuer en tant qu’invité·e',

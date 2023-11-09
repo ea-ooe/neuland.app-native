@@ -5,33 +5,39 @@
             {
                 "title": {
                     "de": "Neues Dashboard",
-                    "en": "New Dashboard"
+                    "en": "New Dashboard",
+                    "fr": "Nouveau Tableau de Bord"
                 },
                 "description": {
                     "de": "Hinzugefügt: Anpassbares Dashboard. Gehe zur Einstellungsseite, um es anzupassen.",
-                    "en": "Added a customizable dashboard. Go to the settings page to customize it."
+                    "en": "Added a customizable dashboard. Go to the settings page to customize it.",
+                    "fr": "Ajout d’un tableau de bord personnalisable. Rendez-vous dans les paramètres pour le personnaliser."
                 },
                 "icon": "grid-outline"
             },
             {
                 "title": {
                     "de": "Akzentfarben",
-                    "en": "Accent Colors"
+                    "en": "Accent Colors",
+                    "fr": "Couleurs d’accent"
                 },
                 "description": {
                     "de": "Wähle aus 9 verschiedenen Akzentfarben, um deine Erfahrung zu personalisieren.",
-                    "en": "Choose from 9 different accent colors to personalize your experience."
+                    "en": "Choose from 9 different accent colors to personalize your experience.",
+                    "fr": "Choisissez une des 9 couleurs d’accent disponibles pour personnaliser votre expérience."
                 },
                 "icon": "color-palette-outline"
             },
             {
                 "title": {
                     "de": "Onboarding & Changelog",
-                    "en": "Onboarding & Changelog"
+                    "en": "Onboarding & Changelog",
+                    "fr": "Introduction & Journal de Changements"
                 },
                 "description": {
                     "de": "Diese neue Übersicht zeigt die wichtigsten Änderungen nach einem Update. Neue Nutzern wird außerdem ein Onboarding angezeigt.",
-                    "en": "This new overview shows the most important changes after an update. New users also see an onboarding."
+                    "en": "This new overview shows the most important changes after an update. New users also see an onboarding.",
+                    "fr": "Ce nouvel aperçu montre les changements les plus importants après chaque mise à jour. Les nouvel·les utilisateurs·rices verront également une introduction."
                 },
                 "icon": "newspaper-outline"
             }
@@ -40,33 +46,39 @@
             {
                 "title": {
                     "de": "Lokalisierung (DE / EN)",
-                    "en": "Localization (DE / EN)"
+                    "en": "Localization (DE / EN)",
+                    "fr": "Localisation (DE / EN)"
                 },
                 "description": {
                     "de": "Die App ist nun in zwei Sprachen verfügbar. Die Sprache kann in den Einstellungen geändert werden.",
-                    "en": "The app is now available in two languages. The language can be changed in the settings."
+                    "en": "The app is now available in two languages. The language can be changed in the settings.",
+                    "fr": "L’appli est désormais disponible en deux langues. Passez entre les deux dans les paramètres."
                 },
                 "icon": "language-outline"
             },
             {
                 "title": {
                     "de": "Studenplan",
-                    "en": "Timetable"
+                    "en": "Timetable",
+                    "fr": "Emploi du Temps"
                 },
                 "description": {
                     "de": "Dein Stundenplan ist nun für angemeldete Nutzer verfügbar. Er zeigt zudem wichtige Kalendar Termine und Fristen an.",
-                    "en": "Your timetable is now available for logged in users. It also shows important calendar dates and deadlines."
+                    "en": "Your timetable is now available for logged in users. It also shows important calendar dates and deadlines.",
+                    "fr": "Votre Emploi du temps est maintenant disponible si vous êtes connecté·e. Il montre également des dates importantes et des délais."
                 },
                 "icon": "calendar-outline"
             },
             {
                 "title": {
                     "de": "Essens Variationen",
-                    "en": "Food Variations"
+                    "en": "Food Variations",
+                    "fr": "Variations des plats"
                 },
                 "description": {
-                    "de": "Verfügbare Variationen werden nun in den Detaisl angezeigt. Außerdem kann nach dauerhaft verfügbaren Gerichten gefiltert werden.",
-                    "en": "Available variations are now displayed in the details. In addition, you can filter by permanently available dishes."
+                    "de": "Verfügbare Variationen werden nun in den Details angezeigt. Außerdem kann nach dauerhaft verfügbaren Gerichten gefiltert werden.",
+                    "en": "Available variations are now displayed in the details. In addition, you can filter by permanently available dishes.",
+                    "fr": "Les variations des plats disponibles sont maintenant visibles dans la vue détaillée. Additionnellement, vous pouvez désormais filtrer les plats toujours disponibles."
                 },
                 "icon": "fast-food-outline"
             }

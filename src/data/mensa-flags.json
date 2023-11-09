@@ -1,66 +1,82 @@
 {
     "_source": {
         "de": "https://www.werkswelt.de/?id=ingo",
-        "en": "translated from https://www.werkswelt.de/?id=ingo"
+        "en": "translated from https://www.werkswelt.de/?id=ingo",
+        "fr": "traduit de https://www.werkswelt.de/?id=ingo"
     },
     "B": {
         "de": "Bio",
-        "en": "Organic"
+        "en": "Organic",
+        "fr": "Bio"
     },
     "CO2": {
         "de": "CO2-Arm",
-        "en": "Low CO2 emissions"
+        "en": "Low CO2 emissions",
+        "fr": "Émissions de CO2 réduites"
     },
     "F": {
         "de": "Fisch",
-        "en": "Fish"
+        "en": "Fish",
+        "fr": "Poisson"
     },
     "G": {
         "de": "Geflügel",
-        "en": "Poultry"
+        "en": "Poultry",
+        "fr": "Volaille"
     },
     "Gf": {
         "de": "Glutenfrei",
-        "en": "Gluten-free"
+        "en": "Gluten-free",
+        "fr": "Sans gluten"
     },
     "L": {
         "de": "Lamm",
-        "en": "Lamb"
+        "en": "Lamb",
+        "fr": "Agneau"
     },
     "MSC": {
         "de": "MSC Fisch",
-        "en": "MSC fish"
+        "en": "MSC fish",
+        "fr": "Poisson MSC"
     },
     "MV": {
         "de": "Mensa Vital",
-        "en": "Mensa Vital"
+        "en": "Mensa Vital",
+        "fr": "Mensa Vital"
     },
     "R": {
         "de": "Rind",
-        "en": "Beef"
+        "en": "Beef",
+        "fr": "Bœuf"
     },
     "S": {
         "de": "Schwein",
-        "en": "Pork"
+        "en": "Pork",
+        "fr": "Porc"
     },
     "V": {
         "de": "Vegetarisch",
-        "en": "Vegetarian"
+        "en": "Vegetarian",
+        "fr": "Végétarien"
     },
     "W": {
         "de": "Wild",
-        "en": "Wild"
+        "en": "Wild",
+        "fr": "Gibier"
     },
     "veg": {
         "de": "Vegan",
-        "en": "Vegan"
+        "en": "Vegan",
+        "fr": "Végan"
     },
     "TODO0": {
         "de": "Reh",
-        "en": "Deer"
+        "en": "Deer",
+        "fr": "Gibier"
     },
     "TODO1": {
         "de": "Alkohol",
-        "en": "Alcohol"
+        "en": "Alcohol",
+        "fr": "Alcool"
     }
 }

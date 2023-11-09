@@ -2,7 +2,8 @@
     {
         "name": {
             "de": "",
-            "en": ""
+            "en": "",
+            "fr": ""
         },
         "begin": "1970-01-01",
         "comments": [
@@ -14,7 +15,8 @@
     {
         "name": {
             "de": "Semesterferien",
-            "en": "Semester break"
+            "en": "Semester break",
+            "fr": "Vacances universitaires"
         },
         "begin": "2023-08-01",
         "end": "2023-09-30"
@@ -22,28 +24,32 @@
     {
         "name": {
             "de": "Vorlesungsbeginn und Semesterstart",
-            "en": "Start of lectures and semester"
+            "en": "Start of lectures and semester",
+            "fr": "Reprise des cours et commencement du sémestre"
         },
         "begin": "2023-10-02"
     },
     {
         "name": {
             "de": "Vorlesungsfrei",
-            "en": "No lectures"
+            "en": "No lectures",
+            "fr": "Pas de cours"
         },
         "begin": "2023-10-03"
     },
     {
         "name": {
             "de": "Vorlesungsfrei",
-            "en": "No lectures"
+            "en": "No lectures",
+            "fr": "Pas de cours"
         },
         "begin": "2023-10-31"
     },
     {
         "name": {
             "de": "Prüfungsanmeldung",
-            "en": "Registration for exams"
+            "en": "Registration for exams",
+            "fr": "Inscription aux examens"
         },
         "begin": "2023-11-06",
         "end": "2023-11-16"
@@ -51,7 +57,8 @@
     {
         "name": {
             "de": "Prüfungsabmeldung",
-            "en": "Deregistration for exams"
+            "en": "Deregistration for exams",
+            "fr": "Désinscription des examens"
         },
         "begin": "2023-11-06",
         "end": "2024-01-11"
@@ -59,7 +66,8 @@
     {
         "name": {
             "de": "Vorlesungsfrei (Weihnachten)",
-            "en": "No lectures (Christmas)"
+            "en": "No lectures (Christmas)",
+            "fr": "Pas de cours (Noël)"
         },
         "begin": "2023-12-24",
         "end": "2024-01-07"
@@ -75,7 +83,8 @@
     {
         "name": {
             "de": "Erweiterter Prüfungszeitraum",
-            "en": "Additional exam period"
+            "en": "Additional exam period",
+            "fr": "Période d’examens étendue"
         },
         "begin": "2024-01-19",
         "end": "2024-01-25"
@@ -83,14 +92,16 @@
     {
         "name": {
             "de": "Ende der Vorlesungszeit",
-            "en": "End of lecture period"
+            "en": "End of lecture period",
+            "fr": "Fin de la période de cours"
         },
         "begin": "2024-01-25"
     },
     {
         "name": {
             "de": "Prüfungszeitraum",
-            "en": "Exam period"
+            "en": "Exam period",
+            "fr": "Période d’examens"
         },
         "begin": "2024-01-26",
         "end": "2024-02-05"
@@ -106,7 +117,8 @@
     {
         "name": {
             "de": "Notenbekanntgabe",
-            "en": "Announcement of grades"
+            "en": "Announcement of grades",
+            "fr": "Communication des notes"
         },
         "begin": "2024-02-14T13:00",
         "hasHours": true
@@ -114,7 +126,8 @@
     {
         "name": {
             "de": "Semesterferien",
-            "en": "Semester break"
+            "en": "Semester break",
+            "fr": "Vacances universitaires"
         },
         "begin": "2024-02-15",
         "end": "2024-03-14"
@@ -122,14 +135,16 @@
     {
         "name": {
             "de": "Vorlesungsbeginn und Semesterstart",
-            "en": "Start of lectures and semester"
+            "en": "Start of lectures and semester",
+            "fr": "Reprise des cours et commencement du sémestre"
         },
         "begin": "2024-03-18"
     },
     {
         "name": {
             "de": "Vorlesungsfrei (Ostern)",
-            "en": "No lectures (Easter)"
+            "en": "No lectures (Easter)",
+            "fr": "Pas de cours (Pâques)"
         },
         "begin": "2024-03-28",
         "end": "2024-04-02"
@@ -137,7 +152,8 @@
     {
         "name": {
             "de": "Prüfungsanmeldung",
-            "en": "Registration for exams"
+            "en": "Registration for exams",
+            "fr": "Inscription aux examens"
         },
         "begin": "2024-04-23",
         "end": "2024-05-02"
@@ -145,7 +161,8 @@
     {
         "name": {
             "de": "Prüfungsabmeldung",
-            "en": "Deregistration for exams"
+            "en": "Deregistration for exams",
+            "fr": "Désinscription des examens"
         },
         "begin": "2024-04-23",
         "end": "2024-06-26"
@@ -153,7 +170,8 @@
     {
         "name": {
             "de": "Vorlesungsfrei (Christi Himmelfahrt, Brückentag)",
-            "en": "No lectures (Ascension Day, Bridge Day)"
+            "en": "No lectures (Ascension Day, Bridge Day)",
+            "fr": "Pas de cours (Ascension, pont)"
         },
         "begin": "2024-05-09",
         "end": "2024-05-10"
@@ -161,7 +179,8 @@
     {
         "name": {
             "de": "Vorlesungsfrei (Pfingsten)",
-            "en": "No lectures (Whitsun)"
+            "en": "No lectures (Whitsun)",
+            "fr": "Pas de cours (Pentecôte)"
         },
         "begin": "2024-05-17",
         "end": "2024-05-21"
@@ -169,7 +188,8 @@
     {
         "name": {
             "de": "Vorlesungsfrei (Fronleichnam)",
-            "en": "No lectures (Corpus Christi)"
+            "en": "No lectures (Corpus Christi)",
+            "fr": "Pas de cours (Corpus Christi)"
         },
         "begin": "2024-05-30"
     },
@@ -184,7 +204,8 @@
     {
         "name": {
             "de": "Erweiterter Prüfungszeitraum",
-            "en": "Additional exam period"
+            "en": "Additional exam period",
+            "fr": "Période d’examens étendue"
         },
         "begin": "2024-07-04",
         "end": "2024-07-10"
@@ -192,14 +213,16 @@
     {
         "name": {
             "de": "Ende der Vorlesungszeit",
-            "en": "End of lecture period"
+            "en": "End of lecture period",
+            "fr": "Fin de la période de cours"
         },
         "begin": "2024-07-10"
     },
     {
         "name": {
             "de": "Prüfungszeitraum",
-            "en": "Exam period"
+            "en": "Exam period",
+            "fr": "Période d’examens"
         },
         "begin": "2024-07-11",
         "end": "2024-07-23"
@@ -215,7 +238,8 @@
     {
         "name": {
             "de": "Notenbekanntgabe",
-            "en": "Announcement of grades"
+            "en": "Announcement of grades",
+            "fr": "Communication des notes"
         },
         "begin": "2024-07-31T13:00",
         "hasHours": true
@@ -223,7 +247,8 @@
     {
         "name": {
             "de": "Semesterferien",
-            "en": "Semester break"
+            "en": "Semester break",
+            "fr": "Vacances universitaires"
         },
         "begin": "2024-08-01",
         "end": "2024-09-30"

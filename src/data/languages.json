@@ -1,4 +1,14 @@
 [
-    { "name": { "en": "German", "de": "Deutsch" }, "key": "de" },
-    { "name": { "en": "English", "de": "Englisch" }, "key": "en" }
+    {
+        "name": { "en": "German", "de": "Deutsch", "fr": "Allemand" },
+        "key": "de"
+    },
+    {
+        "name": { "en": "English", "de": "Englisch", "fr": "Anglais" },
+        "key": "en"
+    },
+    {
+        "name": { "en": "French", "de": "Französisch", "fr": "Français" },
+        "key": "fr"
+    }
 ]

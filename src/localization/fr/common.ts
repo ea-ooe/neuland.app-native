@@ -31,8 +31,8 @@ export default {
                 },
             },
             footer: {
-                part1: 'Toute information présentée ici est fournie sous réserve d’erreur. Pour des informations',
-                part2: 'définitives, veuillez vous rendre sur le site-web de l’université.',
+                part1: 'Toute information présentée ici est fournie sous réserve d’erreur. Pour des informations définitives, ',
+                part2: 'veuillez vous rendre sur le site-web de l’université.',
             },
         },
         lecturers: {

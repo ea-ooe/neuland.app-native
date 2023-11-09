@@ -16,16 +16,16 @@ export default {
         page2: {
             title: 'Tout en un seul endroit',
             text:
-                `Neuland Next réunit toutes les informations importantes sur vos études en une seule appli.\n\n` +
-                `Personnalisez votre tableau de bord selon vos besoins pour recevoir une vue d’ensemble sur votre emploi du temps, vos notes et bien plus.` +
+                `Neuland Next réunit toutes les informations importantes sur vos études dans une seule appli.\n\n` +
+                `Personnalisez votre tableau de bord selon vos besoins pour recevoir une vue d’ensemble sur votre emploi du temps, vos notes et bien plus encore.\n\n` +
                 `La carte interactive montre tous les endroits importants sur le campus.`,
         },
         page3: {
             title: 'Confidentialité',
             text:
-                `Neuland Next est un projet de code source ouvert et est développé par des étudiant·es pour des étudiant·es.` +
-                `En tant qu’alternative à l’appli officielle de la THI nous protégeons strictement vos données.` +
-                `L’appli n’utilise que l’API officielle et chiffrée, qui es fournie par l’université.` +
+                `Neuland Next est un projet de code source ouvert et est développé par des étudiant·es pour des étudiant·es.\n\n` +
+                `En tant qu’alternative à l’appli officielle de la THI nous protégeons strictement vos données. ` +
+                `L’appli n’utilise que l’API officielle et chiffrée, qui es fournie par l’université.\n\n` +
                 `Par conséquence ni nous, ni des tiers sont capables d’acceder à vos donnés ou votre mot de passe.`,
         },
         navigation: {

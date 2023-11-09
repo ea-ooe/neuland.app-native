@@ -1,150 +1,187 @@
 {
     "_source": {
         "de": "https://www.werkswelt.de/?id=ingo",
-        "en": "translated from https://www.werkswelt.de/?id=ingo"
+        "en": "translated from https://www.werkswelt.de/?id=ingo",
+        "fr": "traduit de https://www.werkswelt.de/?id=ingo"
     },
     "1": {
         "de": "Farbstoff",
-        "en": "Artificial coloring"
+        "en": "Artificial coloring",
+        "fr": "Colorant"
     },
     "2": {
         "de": "Coffein",
-        "en": "Caffeine"
+        "en": "Caffeine",
+        "fr": "Caféine"
     },
     "4": {
         "de": "Konservierungsstoff",
-        "en": "Preservatives"
+        "en": "Preservatives",
+        "fr": "Conservateurs"
     },
     "5": {
         "de": "Süßungsmittel",
-        "en": "Sweeteners"
+        "en": "Sweeteners",
+        "fr": "Édulcorants"
     },
     "7": {
         "de": "Antioxidationsmittel",
-        "en": "Antioxidants"
+        "en": "Antioxidants",
+        "fr": "Antioxydants"
     },
     "8": {
         "de": "Geschmacksverstärker",
-        "en": "Flavor enhancers"
+        "en": "Flavor enhancers",
+        "fr": "Exhausteurs de goût"
     },
     "9": {
         "de": "geschwefelt",
-        "en": "Sulfurized"
+        "en": "Sulfurized",
+        "fr": "Sulfurisé"
     },
     "10": {
         "de": "geschwärzt",
-        "en": "Blackened"
+        "en": "Blackened",
+        "fr": "Noirci"
     },
     "12": {
         "de": "Phosphat",
-        "en": "Phosphate"
+        "en": "Phosphate",
+        "fr": "Phosphate"
     },
     "13": {
         "de": "enthält eine Phenylalaninquelle",
-        "en": "Contains phenylalanine source"
+        "en": "Contains phenylalanine source",
+        "fr": "Contient une source de phénylalanine"
     },
     "30": {
         "de": "Fettglasur",
-        "en": "Fat glaze"
+        "en": "Fat glaze",
+        "fr": "Glaçage à la graisse"
     },
     "Wz": {
         "de": "Weizen (Dinkel,Kamut)",
-        "en": "Wheat (spelt, kamut)"
+        "en": "Wheat (spelt, kamut)",
+        "fr": "Blé (Épautre, kamut)"
     },
     "Gf": {
         "de": "Glutenfrei",
-        "en": "Gluten-free"
+        "en": "Gluten-free",
+        "fr": "Sans gluten"
     },
     "Ro": {
         "de": "Roggen",
-        "en": "Rye"
+        "en": "Rye",
+        "fr": "Seigle"
     },
     "Ge": {
         "de": "Gerste",
-        "en": "Barley"
+        "en": "Barley",
+        "fr": "Orge"
     },
     "Hf": {
         "de": "Hafer",
-        "en": "Oats"
+        "en": "Oats",
+        "fr": "Avoine"
     },
     "Kr": {
         "de": "Krebstiere",
-        "en": "Crustaceans"
+        "en": "Crustaceans",
+        "fr": "Crustacés"
     },
     "Ei": {
         "de": "Eier",
-        "en": "Eggs"
+        "en": "Eggs",
+        "fr": "Œufs"
     },
     "Fi": {
         "de": "Fisch",
-        "en": "Fish"
+        "en": "Fish",
+        "fr": "Poisson"
     },
     "Er": {
         "de": "Erdnüsse",
-        "en": "Peanuts"
+        "en": "Peanuts",
+        "fr": "Cacahuètes"
     },
     "So": {
         "de": "Sojabohnen",
-        "en": "Soybeans"
+        "en": "Soybeans",
+        "fr": "Graines de soja"
     },
     "Mi": {
         "de": "Milch/Laktose",
-        "en": "Milk/lactose"
+        "en": "Milk/lactose",
+        "fr": "Lait/lactose"
     },
     "Man": {
         "de": "Mandeln",
-        "en": "Almonds"
+        "en": "Almonds",
+        "fr": "Amandes"
     },
     "Hs": {
         "de": "Haselnüsse",
-        "en": "Hazelnuts"
+        "en": "Hazelnuts",
+        "fr": "Noisettes"
     },
     "Wa": {
         "de": "Walnüsse",
-        "en": "Walnuts"
+        "en": "Walnuts",
+        "fr": "Noix"
     },
     "Ka": {
         "de": "Kaschu(Cashew)nüsse",
-        "en": "Cashew nuts"
+        "en": "Cashew nuts",
+        "fr": "Noix de cajou"
     },
     "Pe": {
         "de": "Pekannüsse",
-        "en": "Pecans"
+        "en": "Pecans",
+        "fr": "Noix de pécan"
     },
     "Pa": {
         "de": "Paranüsse",
-        "en": "Brazil nuts"
+        "en": "Brazil nuts",
+        "fr": "Noix du Brésil"
     },
     "Pi": {
         "de": "Schalenfrüchte Pistazien",
-        "en": "Pistachios"
+        "en": "Pistachios",
+        "fr": "Pistaches"
     },
     "Mac": {
         "de": "Macadamianüsse",
-        "en": "Macadamia nuts"
+        "en": "Macadamia nuts",
+        "fr": "Noix de macadamia"
     },
     "Sel": {
         "de": "Sellerie",
-        "en": "Celery"
+        "en": "Celery",
+        "fr": "Cèleri"
     },
     "Sen": {
         "de": "Senf",
-        "en": "Mustard"
+        "en": "Mustard",
+        "fr": "Moutarde"
     },
     "Ses": {
         "de": "Sesam",
-        "en": "Sesame"
+        "en": "Sesame",
+        "fr": "Sésame"
     },
     "Su": {
         "de": "Schwefeldioxid u. Sulfite",
-        "en": "Sulfur dioxide and sulfites"
+        "en": "Sulfur dioxide and sulfites",
+        "fr": "Dioxyde de soufre et sulfites"
     },
     "Lu": {
         "de": "Lupinen",
-        "en": "Lupins"
+        "en": "Lupins",
+        "fr": "Lupins"
     },
     "We": {
         "de": "Weichtiere",
-        "en": "Molluscs"
+        "en": "Molluscs",
+        "fr": "Mollusques"
     }
 }

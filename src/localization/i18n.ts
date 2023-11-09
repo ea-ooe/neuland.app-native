@@ -4,10 +4,12 @@ import { initReactI18next } from 'react-i18next'
 
 import de from './de'
 import en from './en'
+import fr from './fr'
 
 const resources = {
     en,
     de,
+    fr,
 }
 
 export type LanguageKey = keyof typeof resources
